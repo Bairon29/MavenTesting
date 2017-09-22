@@ -1,0 +1,10 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation">
+	<test name="testcases">
+		<parameter name="InvoiceName" value="hiall" />
+		<classes>
+			<class name="com.junit.scholar3.ParameterFromXML" />
+		</classes>
+	</test>
+</suite>

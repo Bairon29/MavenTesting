@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation">
+	<test name="testcases">
+		<groups>
+			<run>
+				<include name="priority1" />
+			</run>
+		</groups>
+		<classes>
+			<class name="com.junit.scholar2.TestingTestNG" />
+			<class name="com.junit.scholar2.TestingAnotherTestNG" />
+		</classes>
+	</test>
+</suite>
